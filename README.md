@@ -1,2 +1,2 @@
 # course-notes-public
- completed course notes for various classes (UQ)  
+ completed tex notes for various courses (UQ)  
